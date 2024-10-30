@@ -1,0 +1,114 @@
+.MagicSchema-faq-modal {
+    width: 70%;
+    height: 76vh;
+    background:
+    #f0f1f2;
+    position: fixed;
+    top: 14vh;
+    z-index: 1000000;
+    left: 15%;
+    border: 1px solid;
+    border-radius: 2px;
+    overflow-x: auto;
+}.delet-row-MagicSchema-faq {
+    width: 28px;
+    height: 28px;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: left;
+    border: 1px solid #dddd;
+    box-shadow: 0px 0px 2px 0px #ddd;
+    border-radius: 50px;
+    margin-top: 5px;
+}
+.closed-modal-MagicSchema-faq
+{
+    width: 27px;
+    height: 22px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    left: 6px;
+    position: absolute;
+    top: 7px;
+}#container-MagicSchema-faq  img.mce-object , #container-MagicSchema-faq img  {
+    display: none !important;
+} 
+
+.MagicSchema-faq-modal section {
+    padding: 2%;
+}#table-MagicSchema-faq {
+   width: 97%;
+ 
+}#table-MagicSchema-faq th {
+    text-align: left;
+}#table-MagicSchema-faq input {
+    width: 100%;
+}#table-MagicSchema-faq tbody td div {
+    position: absolute;
+    right: 50px;
+    top: 0px;
+}#table-MagicSchema-faq tbody td {
+    position: relative;
+    vertical-align: top;
+}#table-MagicSchema-faq tbody td div {
+    position: absolute;
+    right: 50px;
+    top: 0px;
+    width: 180px;
+}.decision-deleted-row-MagicSchema-faq span:first-child {
+    text-align: left;
+    margin-right: 14px;
+}#table-MagicSchema-faq tbody td div {
+    position: unset;
+    margin-left: 10px;
+    width: auto;
+    background: #fff;
+    line-height: 35px;
+    padding: 0px 10px 0px 10px !important;
+    float: left;
+    border: 1px solid #d5d5d5;
+    border-radius: 5px;
+}
+.decision-deleted-row-MagicSchema-faq span:nth-child(2) {
+    background: 
+#fff;
+color:
+    #46915f;
+    padding: 4px;
+    margin-right: 6px;
+    border-radius: 4px;
+    border: 1px solid #c4ffd8;
+    cursor: pointer;
+}.decision-deleted-row-MagicSchema-faq span:nth-child(3) {
+    background: 
+#fff;
+color:
+    #c96445;
+    padding: 4px;
+    border-radius: 4px;
+    border: 1px solid #fbcfc2;
+    cursor: pointer;
+}#add-row-faq ,#insert-MagicSchema-faq{
+    background: 
+#eaeaea;
+border: none;
+padding: 6px;
+color:
+    #333;
+    display: inline-block;
+    width: auto !important;
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 10px;
+    border-radius: 6px;
+    padding-right: 9px;
+    padding-left: 9px;
+    cursor: pointer;
+}#container-MagicSchema-faq img {
+    display: none !important;
+}
+.question-MagicSchema-faq-form, .answer-MagicSchema-faq-form {
+    width: 100%;
+} 
